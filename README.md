@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -23,4 +24,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
