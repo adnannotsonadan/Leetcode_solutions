@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [1207-unique-number-of-occurrences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
