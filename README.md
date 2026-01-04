@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -34,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
