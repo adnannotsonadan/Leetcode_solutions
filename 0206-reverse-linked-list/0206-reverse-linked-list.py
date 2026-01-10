@@ -11,14 +11,14 @@ class Solution(object):
         """
     # itrrative approach
 
-        prev=None
-        curr=head
-        while curr:
-            nxt=curr.next
-            curr.next=prev
-            prev=curr
-            curr=nxt
-        return prev
+        # prev=None
+        # curr=head
+        # while curr:
+        #     nxt=curr.next
+        #     curr.next=prev
+        #     prev=curr
+        #     curr=nxt
+        # return prev
 
     # naive approach
         # l=[]
@@ -32,4 +32,14 @@ class Solution(object):
         #     temp.val=x
         #     temp=temp.next
         # return head
-        
+    
+    # recursive approach
+        def rev(prev,curr):
+            if curr==None:
+                return prev
+            nxt=curr.next
+            curr.next=prev
+            prev=curr
+            curr=nxt
+            return rev(prev,curr)
+        return rev(None,head)
