@@ -28,6 +28,7 @@
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0206-reverse-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
