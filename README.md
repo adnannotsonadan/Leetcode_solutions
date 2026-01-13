@@ -111,6 +111,7 @@
 | [0620-not-boring-movies](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
+| [1045-customers-who-bought-all-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
