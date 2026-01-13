@@ -92,6 +92,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0177-nth-highest-salary) |
 | [1148-article-views-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
