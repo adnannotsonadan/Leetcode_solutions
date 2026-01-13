@@ -97,6 +97,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0196-delete-duplicate-emails) |
 | [1148-article-views-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
