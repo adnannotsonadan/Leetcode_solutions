@@ -106,6 +106,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0610-triangle-judgement) |
 | [1148-article-views-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
