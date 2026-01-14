@@ -43,11 +43,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
