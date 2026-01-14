@@ -120,6 +120,7 @@
 | [1068-product-sales-analysis-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
