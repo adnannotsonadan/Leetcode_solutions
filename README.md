@@ -131,6 +131,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1321-restaurant-growth) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
 ## Design
