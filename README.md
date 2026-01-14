@@ -123,6 +123,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1158-market-analysis-i) |
+| [1164-product-price-at-a-given-date](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
 ## Design
