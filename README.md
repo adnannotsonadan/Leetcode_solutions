@@ -127,6 +127,7 @@
 | [1174-immediate-food-delivery-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
 ## Design
