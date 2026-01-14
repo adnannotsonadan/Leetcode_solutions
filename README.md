@@ -133,6 +133,7 @@
 | [1280-students-and-examinations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1341-movie-rating](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1341-movie-rating) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
 ## Design
