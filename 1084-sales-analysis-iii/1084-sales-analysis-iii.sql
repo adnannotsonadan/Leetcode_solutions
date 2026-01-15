@@ -1,0 +1,3 @@
+# Write your MySQL query statement below
+# Write your MySQL query statement below
+select product_id, product_name from Product where product_id not in (select a.product_id from Product as a Join Sales as b on a.product_id=b.product_id where sale_date<'2019-01-01' or sale_date>'2019-03-31') and product_id not in (select a.product_id from Product as a left join sales as b on a.product_id=b.product_id where b.product_id is null);
