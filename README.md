@@ -138,6 +138,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
 ## Design
