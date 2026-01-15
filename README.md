@@ -52,6 +52,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
@@ -87,6 +88,7 @@
 | [0002-add-two-numbers](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
