@@ -140,6 +140,7 @@
 | [1484-group-sold-products-by-the-date](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1527-patients-with-a-condition) |
+| [1587-bank-account-summary-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1587-bank-account-summary-ii) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
 ## Design
