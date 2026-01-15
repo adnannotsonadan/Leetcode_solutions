@@ -136,6 +136,7 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1393-capital-gainloss) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
 ## Design
