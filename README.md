@@ -252,4 +252,8 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
