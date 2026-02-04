@@ -228,6 +228,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [0101-symmetric-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -264,4 +266,9 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
