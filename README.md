@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0997-find-the-town-judge](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -228,6 +229,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -236,6 +238,7 @@
 | [0101-symmetric-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
+| [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -270,5 +273,10 @@
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
