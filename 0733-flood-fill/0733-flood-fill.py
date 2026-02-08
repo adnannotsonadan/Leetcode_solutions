@@ -9,10 +9,6 @@ class Solution(object):
         """
         n=len(image)
         m = len(image[0])
-        # adj=[[] for _ in range(n)]
-        # for i in range(n):
-        #     for j in range(n):
-        #         if image[i][j]
         clr=image[sr][sc]
         if clr==color:
             return image
@@ -28,8 +24,3 @@ class Solution(object):
                 dfs(i,j+1)
         dfs(sr,sc)
         return image
-        # for i in range(n):
-        #     for j in range(n):
-        #         if image[i][j]==clr:
-        #             dfs(i,j)
-        # return image
