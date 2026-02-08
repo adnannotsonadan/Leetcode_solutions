@@ -13,6 +13,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -231,6 +232,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -241,6 +243,7 @@
 | [0101-symmetric-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -279,11 +282,13 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
