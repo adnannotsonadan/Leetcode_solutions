@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0997-find-the-town-judge](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
@@ -81,6 +82,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -246,6 +248,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0733-flood-fill) |
@@ -293,6 +296,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
