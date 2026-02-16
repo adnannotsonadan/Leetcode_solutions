@@ -12,18 +12,36 @@ class Solution(object):
         
         color=[-1]*(n+1)
 
+        # for i in range(1,n+1):
+        #     if color[i]==-1:
+        #         q=[]
+        #         q.append(i)
+        #         color[i]=0
+
+        #         while q:
+        #             node=q.pop(0)
+        #             for nei in adj[node]:
+        #                 if color[nei]==-1:
+        #                     color[nei]=1-color[node]
+        #                     q.append(nei)
+        #                 elif color[nei]==color[node]:
+        #                     return False
+        # return True
+        def dfs(src,clr):
+            color[src]=clr
+            for nei in adj[src]:
+                if color[nei]==-1:
+                    x=dfs(nei,1-color[src])
+                    if not x:
+                        return False
+                elif color[nei]==color[src]:
+                    return False
+            return True
         for i in range(1,n+1):
             if color[i]==-1:
-                q=[]
-                q.append(i)
-                color[i]=0
-
-                while q:
-                    node=q.pop(0)
-                    for nei in adj[node]:
-                        if color[nei]==-1:
-                            color[nei]=1-color[node]
-                            q.append(nei)
-                        elif color[nei]==color[node]:
-                            return False
+                x=dfs(i,0)
+                if not x:
+                    return False
+                
         return True
+
