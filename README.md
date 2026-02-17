@@ -244,6 +244,7 @@
 | [0547-number-of-provinces](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
@@ -263,6 +264,7 @@
 | [0547-number-of-provinces](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -299,6 +301,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
@@ -331,4 +334,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
