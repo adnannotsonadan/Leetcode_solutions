@@ -88,6 +88,7 @@
 | [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -308,6 +309,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0207-course-schedule) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -342,4 +345,5 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
