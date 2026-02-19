@@ -6,23 +6,25 @@ class Solution(object):
         :type roads: List[List[int]]
         :rtype: int
         """
-        MOD=10 ** 9 +7
-        adj=[[] for _  in range(n)]
-        for u,v,w in roads:
-            adj[u].append((v,w))
-            adj[v].append((u,w))
-        dist=[float('inf')]*n
+        MOD=10 ** 9 + 7
+        adj=[[]for _ in range(n)]
+        for u, v, w in roads:
+            adj[u].append((v, w))
+            adj[v].append((u, w))
+
         ways=[0]*n
+        dist=[float('inf')]*n
         def dij(src):
-            dist[src]=0
             ways[src]=1
+            dist[src]=0
             pq=[]
             heapq.heappush(pq,(0,src))
+
             while pq:
                 d,node=heapq.heappop(pq)
                 if d>dist[node]:
                     continue
-                for nei, weight in adj[node]:
+                for nei,weight in adj[node]:
                     new_dist=d+weight
                     if new_dist<dist[nei]:
                         dist[nei]=new_dist
@@ -32,4 +34,3 @@ class Solution(object):
                         ways[nei]+=ways[node]
             return ways[n-1]%MOD
         return dij(0)
-                    
