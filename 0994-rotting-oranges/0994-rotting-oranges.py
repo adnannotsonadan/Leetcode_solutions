@@ -7,36 +7,32 @@ class Solution(object):
         n=len(grid)
         m=len(grid[0])
         moves=[(-1,0),(1,0),(0,-1),(0,1)]
-        def bfs():
+        vis=[[0]*m for _ in range(n)]
+        def bfs(si,sj,t):
             q=[]
-            vis=[[0]*m for _ in range(n)]
-            dist=[[-1]*m for _ in range(n)]
-
             for i in range(n):
                 for j in range(m):
                     if grid[i][j]==2:
-                        q.append((i,j))
-                        vis[i][j]=1
-                        dist[i][j]=0
-
+                        vis[i][j]=2
+                        q.append((i,j,0))
+                    # else:
+                    #     vis[i][j]=0
+            tm=0
             while q:
-                f1,f2=q.pop(0)
+                f1,f2,t=q.pop(0)
+                tm=max(tm,t)
                 for dx,dy in moves:
-                    new_i=dx+f1
-                    new_j=dy+f2
-                    if new_i>=0 and new_i<n and new_j>=0 and new_j<m:
-                        if vis[new_i][new_j]==0 and grid[new_i][new_j]==1:
-                            vis[new_i][new_j]=1
-                            q.append((new_i,new_j))
-                            dist[new_i][new_j]=dist[f1][f2]+1
-            max_value=0
+                    ni=dx+f1
+                    nj=dy+f2
+                    if ni>=0 and ni<n and nj>=0 and nj<m and grid[ni][nj]==1:
+                        if vis[ni][nj]==0: 
+                            vis[ni][nj]=1
+                            grid[ni][nj]=2
+                            q.append((ni,nj,t+1))
             for i in range(n):
                 for j in range(m):
-                    if grid[i][j]==1 and dist[i][j]==-1:
+                    if vis[i][j]!=2 and grid[i][j]==1:
                         return -1
-                    else:
-                        max_value=max(max_value,dist[i][j])
-
-            return max_value
-        return bfs()
+            return tm
+        return bfs(0,0,0)
             
