@@ -15,8 +15,7 @@ class Solution(object):
                     if grid[i][j]==2:
                         vis[i][j]=2
                         q.append((i,j,0))
-                    # else:
-                    #     vis[i][j]=0
+
             tm=0
             while q:
                 f1,f2,t=q.pop(0)
@@ -31,7 +30,7 @@ class Solution(object):
                             q.append((ni,nj,t+1))
             for i in range(n):
                 for j in range(m):
-                    if vis[i][j]!=2 and grid[i][j]==1:
+                    if grid[i][j]==1:
                         return -1
             return tm
         return bfs(0,0,0)
