@@ -13,7 +13,7 @@ class Solution(object):
             for i in range(n):
                 for j in range(m):
                     if grid[i][j]==2:
-                        vis[i][j]=2
+                        # vis[i][j]=2
                         q.append((i,j,0))
 
             tm=0
