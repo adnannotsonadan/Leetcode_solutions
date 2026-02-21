@@ -1,28 +1,26 @@
 class Solution(object):
     def findCircleNum(self, isConnected):
-        n = len(isConnected)
-
-        #  matrix tp adj list conv
-        adj = [[] for _ in range(n)]
+        """
+        :type isConnected: List[List[int]]
+        :rtype: int
+        """
+        n=len(isConnected)
+        adj=[[] for _ in range(n+1)]
         for i in range(n):
             for j in range(n):
-                if isConnected[i][j] == 1 and i != j:
+                if isConnected[i][j]==1:
                     adj[i].append(j)
-
-        
-        vis = [0] * n
-
+                    adj[j].append(i)
         def dfs(i):
-            vis[i] = 1
+            vis[i]=1
             for nei in adj[i]:
-                if vis[nei] == 0:
+                if vis[nei]==0:
                     dfs(nei)
-
-        
-        cc = 0
+            
+        vis=[0]*(n+1)
+        l=0
         for i in range(n):
-            if vis[i] == 0:
-                cc += 1
+            if vis[i]==0:
+                l+=1
                 dfs(i)
-
-        return cc
+        return l
