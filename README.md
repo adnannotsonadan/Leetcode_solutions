@@ -22,6 +22,7 @@
 | [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
@@ -78,6 +79,7 @@
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
+| [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -310,6 +312,7 @@
 | [0743-network-delay-time](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1791-find-center-of-star-graph) |
@@ -325,6 +328,7 @@
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
