@@ -37,10 +37,6 @@ class Solution(object):
         # return islands
 
 # with visited
-
-        # if not grid:
-        #     return 0
-
         n = len(grid)
         m = len(grid[0])
 
