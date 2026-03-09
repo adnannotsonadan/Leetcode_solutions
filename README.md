@@ -229,6 +229,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -263,6 +264,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0130-surrounded-regions) |
@@ -286,6 +288,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
