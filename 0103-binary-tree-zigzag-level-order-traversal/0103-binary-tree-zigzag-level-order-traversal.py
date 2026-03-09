@@ -30,7 +30,6 @@ class Solution(object):
                     res.append(curr_lvl)
                     l_to_r=False
                 elif not l_to_r:
-                    # curr_lvl=[]
                     res.append(curr_lvl[::-1])
                     l_to_r=True
         lvl(root)
