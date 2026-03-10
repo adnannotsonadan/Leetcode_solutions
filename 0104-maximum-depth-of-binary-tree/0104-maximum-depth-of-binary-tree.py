@@ -10,21 +10,11 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        if not root:
-            return 0
-        dep=0
-        def lvl(node,dep):
-            q=deque()
-            q.append(node)
-            while q:
-                dep+=1
-                for _ in range(len(q)):
-                    f=q.popleft()
-                    if f.left is not None:
-                        q.append(f.left)
-                    if f.right is not None:
-                        q.append(f.right)
-            return dep
-        res=lvl(root,dep)
-        return res
         
+        def dep(node):
+            if not node:
+                return 0
+            lef=dep(node.left)
+            righ=dep(node.right)
+            return 1+max(lef,righ)
+        return dep(root)
