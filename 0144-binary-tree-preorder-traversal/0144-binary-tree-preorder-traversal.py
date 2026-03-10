@@ -11,11 +11,17 @@ class Solution(object):
         :rtype: List[int]
         """
         res=[]
-        def preorder(node):
+        def preorder(node,res):
             if node==None:
                 return
-            res.append(node.val)
-            preorder(node.left)
-            preorder(node.right)
-        preorder(root)
+            stack=[]
+            stack.append(node)
+            while stack:
+                f=stack.pop()
+                res.append(f.val)
+                if f.right is not None:
+                    stack.append(f.right)
+                if f.left is not None:
+                    stack.append(f.left)
+        preorder(root,res)
         return res
