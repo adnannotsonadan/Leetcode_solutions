@@ -4,40 +4,24 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        # stack = []  
-
-        # for ch in s:
-        #     if ch in "({[":
-        #         stack.append(ch)  
-        #     else:
-        #         if not stack:
-        #             return False  
-        #         top = stack.pop()
-
-                
-        #         if (ch == ')' and top == '(') or (ch == ']' and top == '[') or (ch == '}' and top == '{'):
-        #             continue
-        #         else:
-        #             return False
-
-        # return len(stack) == 0
-        stack=[]
-        for x in s:
-            if x in "([{":
-                stack.append(x)
+        st=[]
+        for i in range(len(s)):
+            if s[i] in"([{":
+                st.append(s[i])
             else:
-                if not stack:
+                if len(st) == 0 :
                     return False
-                    
-                if x==')' and stack[-1]=='(' or x==']' and stack[-1]=='[' or x=='}' and stack[-1]=='{':
-                    stack.pop()  
-                else:
-                    return False
-                    
-        if len(stack)==0:
-            return True
-        
-        else:
+                if s[i] in ")]}":
+                    f=st.pop()
+                    if s[i]==')' and f=='(':
+                        continue
+                    elif s[i]==']' and f=='[':
+                        continue
+                    elif s[i]=='}' and f=='{':
+                        continue
+                    else:
+                        return False
+        if len(st)!=0:
             return False
-            
-            
+        return True
+                
