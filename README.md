@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -238,6 +239,7 @@
 | [0110-balanced-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -251,6 +253,7 @@
 | [0110-balanced-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -306,6 +309,7 @@
 | [0110-balanced-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
