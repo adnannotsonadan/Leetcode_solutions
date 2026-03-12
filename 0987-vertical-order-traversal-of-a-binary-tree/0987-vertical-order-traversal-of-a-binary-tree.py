@@ -1,4 +1,7 @@
+
 from collections import defaultdict
+from collections import deque
+# from collections import defaultdict
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
@@ -12,27 +15,20 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[List[int]]
         """
-
-        m=[]
-        def dfs(node,col):
-            if node is None:
-                return
-            for i in range(len(m)):
-                if m[i][0] == col[0]:
-                    m[i].append((col[1],node.val))
-                    break
-            else:
-                m.append([col[0] , (col[1],node.val)])
-            # print(m)
-            dfs(node.left,(col[0]-1,col[1]+1))
-            dfs(node.right,(col[0]+1,col[1]+1))
-        dfs(root,(0,0))
-
-        m.sort(key = lambda x:x[0])
-        
-        for i in range(len(m)):
-            m[i] = m[i][1:]
-            m[i].sort()
-            for j in range(len(m[i])):
-                m[i][j] = m[i][j][1]
-        return m
+        # code here
+        m=defaultdict(list)
+        q=deque([(root,0,0)])
+        ans=[]
+        if not root:
+            return []
+        while q:
+            f,col,row=q.popleft()
+            m[col].append((row,f.val))
+            if f.left :
+                q.append((f.left,col-1,row+1))
+            if f.right:
+                q.append((f.right,col+1,row+1))
+        for key in sorted(m):
+            temp = sorted(m[key])
+            ans.append([val for row,val in temp])
+        return ans
