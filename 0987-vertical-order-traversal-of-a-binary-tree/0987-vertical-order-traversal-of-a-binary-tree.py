@@ -29,6 +29,8 @@ class Solution(object):
             if f.right:
                 q.append((f.right,col+1,row+1))
         for key in sorted(m):
-            temp = sorted(m[key])
-            ans.append([val for row,val in temp])
+            temp =[]
+            for row , val in sorted(m[key]):
+                temp.append(val)
+            ans.append(temp)
         return ans
