@@ -82,6 +82,7 @@
 | [0020-valid-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -269,6 +272,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0207-course-schedule) |
+| [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0684-redundant-connection) |
@@ -326,6 +330,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
