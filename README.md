@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -52,6 +53,7 @@
 | [0011-container-with-most-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -90,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -147,6 +150,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -412,6 +416,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
