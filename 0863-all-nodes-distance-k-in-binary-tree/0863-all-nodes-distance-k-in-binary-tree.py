@@ -21,9 +21,9 @@ class Solution(object):
             if node.left:
                 parent[node.left]=node
             dfs(node.left)
-            dfs(node.right)
             if node.right:
                 parent[node.right]=node
+            dfs(node.right)
         dfs(root)
         ans=[]
         def bfs(node):
