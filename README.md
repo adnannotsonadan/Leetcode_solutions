@@ -27,6 +27,7 @@
 | [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
@@ -165,6 +166,7 @@
 | [0155-min-stack](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 ## Memoization
 |  |
 | ------- |
