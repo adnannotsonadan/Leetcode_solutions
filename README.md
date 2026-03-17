@@ -93,6 +93,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -301,6 +304,7 @@
 | [0207-course-schedule](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -330,6 +334,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -369,6 +374,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
