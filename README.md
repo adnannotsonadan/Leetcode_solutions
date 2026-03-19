@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -170,6 +172,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0735-asteroid-collision) |
@@ -469,6 +472,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
