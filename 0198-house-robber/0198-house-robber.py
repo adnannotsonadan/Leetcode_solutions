@@ -9,6 +9,8 @@ class Solution(object):
         def solve(ind,nums):
             if ind<0:
                 return 0
+            if ind==0:
+                return nums[0]
             if dp[ind]!=-1:
                 return dp[ind]
             pick=nums[ind]+solve(ind-2,nums)
