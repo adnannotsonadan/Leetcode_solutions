@@ -6,16 +6,12 @@ class Solution(object):
         """
         n=len(nums)
         dp=[-1]*n
-        def solve(ind,nums):
-            if ind<0:
-                return 0
-            if ind==0:
-                return nums[0]
-            if dp[ind]!=-1:
-                return dp[ind]
-            pick=nums[ind]+solve(ind-2,nums)
-            not_pick=solve(ind-1,nums)
-            dp[ind] = max(pick,not_pick)
-            return dp[ind]
-        return solve(n-1,nums)
-        
+        dp[0]=nums[0]
+        for i in range(1,n):
+            if i>1:
+                pick=nums[i]+dp[i-2]
+            else:
+                pick=nums[i]
+            np=dp[i-1]
+            dp[i]=max(pick,np)
+        return dp[n-1]
