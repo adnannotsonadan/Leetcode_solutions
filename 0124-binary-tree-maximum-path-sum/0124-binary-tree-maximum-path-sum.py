@@ -10,17 +10,31 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        self.maxi=float('-inf')
+        # self.maxi=float('-inf')
+        # def mp(node):
+        #     if not node:
+        #         return 0
+        #     l=mp(node.left)
+        #     if l<0:
+        #         l=0
+        #     r=mp(node.right)
+        #     if r<0:
+        #         r=0
+        #     self.maxi=max(self.maxi,l+node.val+r)
+        #     return node.val+max(l,r)
+        # mp(root)
+        # return self.maxi
+        maxi=[float('-inf')]
         def mp(node):
             if not node:
                 return 0
-            l=mp(node.left)
-            if l<0:
-                l=0
-            r=mp(node.right)
-            if r<0:
-                r=0
-            self.maxi=max(self.maxi,l+node.val+r)
-            return node.val+max(l,r)
+            left=mp(node.left)
+            if left<0:
+                left=0
+            right=mp(node.right)
+            if right<0:
+                right=0
+            maxi[0]=max(maxi[0],left+node.val+right)
+            return node.val+max(left,right)
         mp(root)
-        return self.maxi
+        return maxi[0]
