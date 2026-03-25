@@ -11,14 +11,25 @@ class Solution(object):
         :rtype: bool
         """
         
-        def lvlOrder(left,right):
-            if left==None and right==None:
+        # def lvlOrder(left,right):
+        #     if left==None and right==None:
+        #         return True
+        #     if left==None or right==None:
+        #         return False
+        #     if left.val!=right.val:
+        #         return False
+        #     l=lvlOrder(left.left,right.right)
+        #     r=lvlOrder(left.right,right.left)
+        #     return l and r
+        # return lvlOrder(root.left,root.right)
+        def sym(left,right):
+            if not left and not right:
                 return True
-            if left==None or right==None:
+            if not left or not right:
                 return False
             if left.val!=right.val:
                 return False
-            l=lvlOrder(left.left,right.right)
-            r=lvlOrder(left.right,right.left)
+            l=sym(left.left,right.right)
+            r=sym(left.right,right.left)
             return l and r
-        return lvlOrder(root.left,root.right)
+        return sym(root.left,root.right)
