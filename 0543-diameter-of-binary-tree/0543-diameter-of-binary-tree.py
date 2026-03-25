@@ -10,13 +10,24 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        self.d=0
+        # self.d=0
+        # def dia(node):
+        #     if node==None:
+        #         return 0
+        #     l=dia(node.left)
+        #     r=dia(node.right)
+        #     self.d=max(self.d,l+r)
+        #     return 1+(max(l,r))
+        # dia(root)
+        # return self.d
+
+        maxi=[0]
         def dia(node):
-            if node==None:
+            if not node:
                 return 0
-            l=dia(node.left)
-            r=dia(node.right)
-            self.d=max(self.d,l+r)
-            return 1+(max(l,r))
+            left=dia(node.left)
+            right=dia(node.right)
+            maxi[0]=max(maxi[0],left+right)
+            return 1+max(left,right)
         dia(root)
-        return self.d
+        return maxi[0]
