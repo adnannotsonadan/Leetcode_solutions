@@ -11,18 +11,6 @@ class Solution(object):
         :type q: Optional[TreeNode]
         :rtype: bool
         """
-        # def pre(node1,node2):
-        #     if node1 is None and node2 is None:
-        #         return True
-        #     if node1 is None or node2 is None:
-        #         return False
-        #     if node1.val!=node2.val:
-        #         return False
-        #     l=pre(node1.left,node2.left)
-        #     r=pre(node1.right,node2.right)
-        #     return l and r 
-        # return pre(p,q)
-
         def same(node1,node2):
             if not node1 and not node2:
                 return True
