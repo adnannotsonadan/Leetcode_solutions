@@ -36,6 +36,7 @@
 | [0733-flood-fill](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
@@ -128,6 +129,7 @@
 | [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
@@ -475,6 +477,7 @@
 | [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
