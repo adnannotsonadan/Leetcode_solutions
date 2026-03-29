@@ -35,6 +35,7 @@
 | [0695-max-area-of-island](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -60,6 +61,7 @@
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -434,6 +436,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
