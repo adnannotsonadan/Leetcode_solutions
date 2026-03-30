@@ -4,10 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        n=len(nums)
-        
-        for i in range(n+1):
-            if i not in nums:
+        m=max(nums)
+        nums.sort()
+        for i in range(m+1):
+            if i!=nums[i]:
                 return i
-        return 0
-        
+        return m+1
