@@ -7,18 +7,28 @@ class Solution(object):
         :type n: int
         :rtype: None Do not return anything, modify nums1 in-place instead.
         """
-        if n == 0 :return
-        len1 = len(nums1)
-        end_idx = len1-1
-        while n > 0 and m > 0 :
-            if nums2[n-1] >= nums1[m-1]:
-                nums1[end_idx] = nums2[n-1]
-                n-=1
-            else:
-                nums1[end_idx] = nums1[m-1]
-                m-=1
-            end_idx-=1
-        while n > 0:
-            nums1[end_idx] = nums2[n-1]
-            n-=1
-            end_idx-=1
+        # for i in range(m,m+n):
+        #     nums1[i]=nums2[i-m]
+        # nums1.sort()
+
+        temp=[]
+        i=0
+        j=0
+        while i<m and j<n :
+            if nums1[i]<nums2[j]:
+                temp.append(nums1[i])
+                i+=1
+            elif nums1[i]>nums2[j]:
+                temp.append(nums2[j])
+                j+=1
+            elif nums1[i]==nums2[j]:
+                temp.append(nums1[i])
+                i+=1
+        while i < m:
+            temp.append(nums1[i])
+            i+=1
+        while j < n:
+            temp.append(nums2[j])
+            j+=1
+        nums1[:]=temp
+        return nums1
