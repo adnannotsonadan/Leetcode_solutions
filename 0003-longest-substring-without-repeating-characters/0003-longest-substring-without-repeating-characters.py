@@ -4,29 +4,19 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        # n = len(s)
-        # res = 0
-        # for i in range(n):
-        #     seen = set()
-        #     for j in range(i, n):
-        #         if s[j] in seen:
-        #             break
-        #         else:
-        #             seen.add(s[j])
-        #             res = max(res, j - i + 1)
-        # return res
-
-        low=0
-        high=0
-        maxl=0
-        t=''
-        while high<len(s):
-            if s[high] not in t:
-                t+=s[high]
-                if len(t)>maxl:
-                    maxl=len(t)
-                high+=1
+        left=0
+        right=0
+        n=len(s)
+        maxi=0
+        d={}
+        while right<n:
+            if s[right] not in d:
+                d[s[right]]=right
             else:
-                low=high
-                t=''
-        return maxl
+                left=max(left,d[s[right]]+1)
+            d[s[right]]=right
+            maxi=max(maxi,right-left+1)
+            right+=1
+        return maxi
+
+        
