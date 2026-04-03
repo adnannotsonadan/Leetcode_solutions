@@ -111,6 +111,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1021-remove-outermost-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -202,6 +203,7 @@
 | [0503-next-greater-element-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
