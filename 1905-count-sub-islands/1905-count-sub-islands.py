@@ -30,7 +30,7 @@ class Solution(object):
             for j in range(m1):
                 if grid2[i][j]==1:
                     found=[True]
-                    print("called")
+                    # print("called")
                     dfs(i,j)
                     if found[0]:
                         count+=1
