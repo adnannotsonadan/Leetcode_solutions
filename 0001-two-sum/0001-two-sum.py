@@ -31,12 +31,33 @@ class Solution(object):
         #         if nums[i]+nums[j]==target:
         #             return [i,j]
 
-        i=0
-        j=0
+        # i=0
+        # j=0
+        # res=[]
+        # m={}
+        # for i in range(len(nums)):
+        #     if nums[i] not in m:
+        #         m[nums[i]]=i
+        #     else:
+        #         m[nums[i]]=i
+        # for i in range(len(nums)):
+        #     for j in range(i+1,len(nums)):
+        #         if nums[i]+nums[j]==target:
+        #             res.append(i)
+        #             res.append(j)
+        # return res
+
+
+        # OPTIMAL APPROACH
+
+        m={}
+        n=len(nums)
         res=[]
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]+nums[j]==target:
-                    res.append(i)
-                    res.append(j)
+        for i in range(n):
+            s=target-nums[i]
+            if s not in m:
+                m[nums[i]]=i
+            else:
+                res.append(m[s])
+                res.append(i)
         return res
