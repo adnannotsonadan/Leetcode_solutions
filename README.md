@@ -22,6 +22,7 @@
 | [0130-surrounded-regions](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
@@ -61,6 +62,7 @@
 | [0141-linked-list-cycle](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -167,6 +170,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -530,4 +534,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0062-unique-paths) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
