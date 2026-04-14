@@ -52,6 +52,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1905-count-sub-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1905-count-sub-islands) |
 | [2104-sum-of-subarray-ranges](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -541,4 +543,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
