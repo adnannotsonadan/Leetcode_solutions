@@ -140,6 +140,7 @@
 | [0198-house-robber](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -295,6 +296,7 @@
 | [0136-single-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
