@@ -18,17 +18,31 @@ class Solution(object):
         #         return x
 # OPTIMAL
 
-        count=0
+        # count=0
+        # num=None
+
+        # for i in range(len(nums)):
+        #     if count==0:
+        #         num=nums[i]
+        #         count+=1
+        #     else:
+        #         if num==nums[i]:
+        #             count+=1
+        #         else:
+        #             count-=1
+        # return num
+        
+
         num=None
+        count=0
 
         for i in range(len(nums)):
             if count==0:
                 num=nums[i]
                 count+=1
             else:
-                if num==nums[i]:
+                if nums[i]==num:
                     count+=1
                 else:
                     count-=1
         return num
-        
