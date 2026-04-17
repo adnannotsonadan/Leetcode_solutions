@@ -17,3 +17,9 @@ class Solution(object):
         #     if hash[i]>0:
         #         length+=1
         # return length
+
+        # s=set()
+        # nums=list(s)
+        # # for x in nums:
+        # #     s.add(x)
+        # return len(nums)
