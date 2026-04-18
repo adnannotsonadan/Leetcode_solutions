@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0066-plus-one) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 ## String
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
