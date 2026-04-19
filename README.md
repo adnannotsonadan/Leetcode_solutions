@@ -123,6 +123,7 @@
 | [0020-valid-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -143,6 +144,7 @@
 | [0064-minimum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
