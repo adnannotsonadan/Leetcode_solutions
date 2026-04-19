@@ -34,6 +34,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
@@ -151,6 +152,7 @@
 | [0322-coin-change](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0542-01-matrix) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
