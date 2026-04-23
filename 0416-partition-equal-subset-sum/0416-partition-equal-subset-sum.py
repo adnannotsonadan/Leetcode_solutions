@@ -4,28 +4,52 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
+        # total=sum(nums)
+        # n=len(nums)
+        # if total%2!=0:
+        #     return False
+        # else:
+        #     target=total//2
+        # dp=[[-1]*(target+1) for _ in range(n)]
+        
+        # def rec(ind,target):
+        #     if target==0:
+        #         return True
+            
+        #     if ind==0:
+        #         if nums[ind]==target:
+        #             return True
+        #         return False
+        #     if dp[ind][target]!=-1:
+        #         return dp[ind][target]
+        #     not_take=rec(ind-1,target)
+        #     take=False
+        #     if nums[ind]<=target:
+        #         take=rec(ind-1,target-nums[ind])
+        #     dp[ind][target] = take or not_take
+        #     return dp[ind][target]
+        # return rec(n-1,target)
+
         n=len(nums)
-        if sum(nums)%2!=0 :
+        total=sum(nums)
+        if total%2!=0:
             return False
-        t=sum(nums)//2
-        dp=[[-1]*(t+1) for _ in range(n+1)]
-        def rec(ind,t):
-            if ind==len(nums):
-                if t==0:
+        target=total//2
+        dp=[[-1]*(target+1) for _ in range(n)]
+
+        def rec(ind,target):
+            if target==0:
+                return True
+            if ind==0:
+                if target==0:
                     return True
                 return False
-            if dp[ind][t]!=-1:
-                return dp[ind][t]
-            if nums[ind]<=t:
-                inc=rec(ind+1,t-nums[ind])
-                    # return True
-                ninc=rec(ind+1,t)
-                    # return True
-                dp[ind][t]=inc or ninc
-                return dp[ind][t]
-            else:
-                dp[ind][t]=rec(ind+1,t)
-                return dp[ind][t]
-            # return False
-        return rec(0,t)
-        
+            if dp[ind][target]!=-1:
+                return dp[ind][target]
+            np=rec(ind-1,target)
+            pick=0
+            if nums[ind]<=target:
+                pick=rec(ind-1,target-nums[ind])
+            dp[ind][target]=pick or np
+            return dp[ind][target]
+        return rec(n-1,target)
