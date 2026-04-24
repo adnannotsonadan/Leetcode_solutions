@@ -4,14 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        
-        temp=[]
+        res=[]
         for i in range(len(nums)):
             if nums[i]!=0:
-                temp.append(nums[i])
+                res.append(nums[i])
         for i in range(len(nums)):
             if nums[i]==0:
-                temp.append(nums[i])
-        for i in range(len(nums)):
-            nums[i]=temp[i]
-        
+                res.append(nums[i])
+        nums[:]=res
+        return nums
