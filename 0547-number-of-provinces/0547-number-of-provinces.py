@@ -58,25 +58,49 @@ class Solution(object):
 
 
 
+        # n=len(isConnected)
+        # adj=[[] for _ in range(n)]
+        # for i in range(n):
+        #     for j in range(n):
+        #         if isConnected[i][j]==1 and i!=j:
+        #             adj[i].append(j)
+        #             adj[j].append(i)
+
+
+        # vis=[0]*n
+
+        # def dfs(src):
+        #     vis[src]=1
+        #     for nei in adj[src]:
+        #         if not vis[nei]:
+        #             dfs(nei)
+        # cc=0
+        # for i in range(n):
+        #     if not vis[i]:
+        #         cc+=1
+        #         dfs(i)
+        # return cc
+
         n=len(isConnected)
-        adj=[[] for _ in range(n)]
+        m=len(isConnected[0])
+        adj=[[]*n for _ in range(n)]
+        vis=[0]*n
+
         for i in range(n):
-            for j in range(n):
+            for j in range(m):
                 if isConnected[i][j]==1 and i!=j:
                     adj[i].append(j)
                     adj[j].append(i)
-
-
-        vis=[0]*n
-
-        def dfs(src):
-            vis[src]=1
-            for nei in adj[src]:
-                if not vis[nei]:
+        
+        def dfs(node):
+            vis[node]=1
+            for nei in adj[node]:
+                if vis[nei]==0:
                     dfs(nei)
+        
         cc=0
         for i in range(n):
-            if not vis[i]:
+            if vis[i]==0:
                 cc+=1
                 dfs(i)
         return cc
