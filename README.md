@@ -13,6 +13,7 @@
 | [0063-unique-paths-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -90,6 +91,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
@@ -106,6 +108,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
