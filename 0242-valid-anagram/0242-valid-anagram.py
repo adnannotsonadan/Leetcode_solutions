@@ -32,4 +32,18 @@ class Solution(object):
         # else:
         #     return False
 
-        return sorted(s)==sorted(t)
+        m={}
+        if len(s)!=len(t):
+            return False
+        for x in s:
+            if x not in m:
+                m[x]=1
+            else:
+                m[x]+=1
+        for i in range(len(t)):
+            if t[i] not in m:
+                return False
+            m[t[i]]-=1
+            if m[t[i]]==0:
+                del m[t[i]]
+        return True
