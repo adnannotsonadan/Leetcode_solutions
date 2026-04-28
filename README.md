@@ -73,6 +73,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -112,6 +113,7 @@
 | [0088-merge-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -132,6 +134,7 @@
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0402-remove-k-digits) |
