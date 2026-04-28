@@ -14,12 +14,22 @@ class Solution(object):
         # return maxi
 
         # OPTIMAL
+        # maxi=0
+        # mini=float('inf')
+
+        # for i in range(len(prices)):
+        #     if prices[i]<mini:
+        #         mini=prices[i]
+        #     if prices[i]>mini:
+        #         maxi=max(maxi,prices[i]-mini)
+        # return maxi
+
         maxi=0
         mini=float('inf')
 
-        for i in range(len(prices)):
-            if prices[i]<mini:
-                mini=prices[i]
-            if prices[i]>mini:
-                maxi=max(maxi,prices[i]-mini)
+        for price in prices:
+            mini=min(mini,price)
+            if price>mini:
+                maxi=max(maxi,price-mini)
         return maxi
+
