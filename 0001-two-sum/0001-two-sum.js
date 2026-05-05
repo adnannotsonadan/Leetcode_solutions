@@ -13,9 +13,9 @@ var twoSum = function(nums, target) {
         }else{
             t.push(m[x]);
             t.push(i);        
+            return t;
         }
     }
-    return t;
 };
 //   let map = new Map()
 //   let  n= nums.length
