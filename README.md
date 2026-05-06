@@ -125,6 +125,7 @@
 | [0045-jump-game-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0189-rotate-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
