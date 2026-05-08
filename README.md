@@ -61,6 +61,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1905-count-sub-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1905-count-sub-islands) |
 | [2104-sum-of-subarray-ranges](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -506,6 +507,7 @@
 | [0724-find-pivot-index](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Graph Theory
 |  |
 | ------- |
