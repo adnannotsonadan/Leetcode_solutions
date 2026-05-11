@@ -5,14 +5,13 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        n=len(numbers)
         m={}
-        res=[]
-        for i in range(n):
-            s=target-numbers[i]
-            if s not in m:
+
+        for i in range(len(numbers)):
+            x=target-numbers[i]
+            if x not in m:
                 m[numbers[i]]=i
             else:
-                res.append(m[s]+1)
-                res.append(i+1)
-        return res
+                return [m[x]+1,i+1]
+        
+        
