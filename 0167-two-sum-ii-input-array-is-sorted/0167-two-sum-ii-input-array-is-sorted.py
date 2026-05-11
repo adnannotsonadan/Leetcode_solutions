@@ -5,13 +5,19 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        m={}
+        n=len(numbers)
+        i=0
+        j=n-1
 
-        for i in range(len(numbers)):
-            x=target-numbers[i]
-            if x not in m:
-                m[numbers[i]]=i
-            else:
-                return [m[x]+1,i+1]
+        while i<j:
+            x=numbers[i]+numbers[j]
+            if x==target:
+                return [i+1,j+1]
+            elif x>target:
+                j-=1
+            elif x<target:
+                i+=1
+            
+
         
         
