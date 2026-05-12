@@ -43,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0494-target-sum) |
@@ -86,6 +87,7 @@
 | [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -114,6 +116,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -129,6 +132,7 @@
 | [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
@@ -502,6 +506,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
