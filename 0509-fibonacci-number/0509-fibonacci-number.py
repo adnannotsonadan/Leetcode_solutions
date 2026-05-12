@@ -4,8 +4,14 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        def rec(n):
-            if n<=1:
-                return n
-            return rec(n-2)+rec(n-1)
-        return rec(n)
+        if n<=1:
+            return n
+        
+        a=0
+        b=1
+
+        for i in range(2,n+1):
+            c=a+b
+            a=b
+            b=c
+        return b
