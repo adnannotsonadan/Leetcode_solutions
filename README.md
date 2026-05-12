@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0066-plus-one) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
@@ -216,6 +218,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
