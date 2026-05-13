@@ -5,23 +5,19 @@ class Solution(object):
         :rtype: bool
         """
         st=[]
-        for i in range(len(s)):
-            if s[i] in"([{":
-                st.append(s[i])
+        if len(s)==1:
+            return False
+        for ch in s:
+            
+            if ch in '([{':
+                st.append(ch)
             else:
-                if len(st) == 0 :
+                if not st:
                     return False
-                if s[i] in ")]}":
-                    f=st.pop()
-                    if s[i]==')' and f=='(':
-                        continue
-                    elif s[i]==']' and f=='[':
-                        continue
-                    elif s[i]=='}' and f=='{':
-                        continue
-                    else:
-                        return False
+                e=st.pop()
+                if e=='(' and ch!=')' or e=='[' and ch!=']' or e=='{' and ch!='}':
+                    return False
         if len(st)!=0:
             return False
         return True
-                
+
