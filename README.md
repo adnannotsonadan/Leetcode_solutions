@@ -89,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -160,6 +161,7 @@
 | [0242-valid-anagram](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -606,9 +608,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
