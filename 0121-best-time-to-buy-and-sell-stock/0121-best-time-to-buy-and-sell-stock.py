@@ -24,12 +24,22 @@ class Solution(object):
         #         maxi=max(maxi,prices[i]-mini)
         # return maxi
 
+        # maxi=0
+        # mini=float('inf')
+
+        # for price in prices:
+        #     mini=min(mini,price)
+        #     if price>mini:
+        #         maxi=max(maxi,price-mini)
+        # return maxi
+
         maxi=0
         mini=float('inf')
 
-        for price in prices:
-            mini=min(mini,price)
-            if price>mini:
-                maxi=max(maxi,price-mini)
+        for num in prices:
+            if num<mini:
+                mini=num
+            else:
+                maxi=max(maxi,num-mini)
         return maxi
 
