@@ -49,7 +49,7 @@ class Solution(object):
                     t=dfs(ni,nj,t)
             return t
         tm=0
-        t=0
+        # t=0
         vis=[[0]*m for _ in range(n)]
         for i in range(n):
             for j in range(m):
