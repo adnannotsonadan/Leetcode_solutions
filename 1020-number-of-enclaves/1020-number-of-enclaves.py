@@ -70,8 +70,8 @@ class Solution(object):
                 dfs(j,m-1)
         
         c=0
-        for i in range(1,n-1):
-            for j in range(1,m-1):
+        for i in range(1,n):
+            for j in range(1,m):
                 if grid[i][j]==1:
                     c+=1
         
