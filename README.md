@@ -169,6 +169,7 @@
 | [0409-longest-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0796-rotate-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
@@ -349,6 +350,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
