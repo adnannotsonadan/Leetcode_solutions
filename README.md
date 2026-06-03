@@ -75,6 +75,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1905-count-sub-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1905-count-sub-islands) |
 | [2104-sum-of-subarray-ranges](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -144,6 +145,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0402-remove-k-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
 | ------- |
