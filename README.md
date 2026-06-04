@@ -213,6 +213,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -261,6 +262,7 @@
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -639,4 +641,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
