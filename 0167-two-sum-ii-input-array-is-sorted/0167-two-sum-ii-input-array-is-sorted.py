@@ -6,16 +6,10 @@ class Solution(object):
         :rtype: List[int]
         """
         n=len(numbers)
-        i=0
-        j=n-1
-
-        while i<j:
-            x=numbers[i]+numbers[j]
-            if x==target:
-                return [i+1,j+1]
+        m={}
+        for i in range(n):
+            x=target-numbers[i]
+            if x not in m:
+                m[numbers[i]]=i
             else:
-                if x>target:
-                    j-=1
-                else:
-                    i+=1
-            
+                return [m[x]+1,i+1]
