@@ -9,22 +9,6 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: int
         """
-        # all_sums=[]
-        
-        # arr=[]
-        # temp=head
-        # while temp:
-        #     arr.append(temp.val)
-        #     temp=temp.next
-        
-        # n = len(arr)
-        # max_sum = 0
-        
-        # for i in range(n//2):
-        #     max_sum = max(max_sum, arr[i] + arr[n-1-i])
-        
-        # return max_sum
-# approach2
         arr=[]
         n=0
         m=0
@@ -40,3 +24,4 @@ class Solution(object):
             j-=1
             i+=1
         return m
+        
