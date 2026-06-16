@@ -187,6 +187,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -384,6 +385,7 @@
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Memoization
 |  |
