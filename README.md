@@ -21,6 +21,7 @@
 | [0063-unique-paths-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -91,6 +92,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -604,6 +606,7 @@
 | [0036-valid-sudoku](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0200-number-of-islands) |
