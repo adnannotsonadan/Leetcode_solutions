@@ -7,27 +7,51 @@ class Solution(object):
         n=len(matrix)
         m=len(matrix[0])
         
-        def row(r):
-            for i in range(m):
-                if matrix[r][i]!=0:
-                    matrix[r][i]=None
-            return
-        def col(c):
-            for i in range(n):
-                if matrix[i][c]!=0:
-                    matrix[i][c]=None
-            return
+        # def row(r):
+        #     for i in range(m):
+        #         if matrix[r][i]!=0:
+        #             matrix[r][i]=None
+        #     return
+        # def col(c):
+        #     for i in range(n):
+        #         if matrix[i][c]!=0:
+        #             matrix[i][c]=None
+        #     return
+
+        # for i in range(n):
+        #     for j in range(m):
+        #         if matrix[i][j]==0:
+        #             row(i)
+        #             col(j)
+
+        # for i in range(n):
+        #     for j in range(m):
+        #         if matrix[i][j] is None:
+        #             matrix[i][j]=0
+        # return matrix
+
+
+        row=[0]*n
+        col=[0]*m
 
         for i in range(n):
             for j in range(m):
                 if matrix[i][j]==0:
-                    row(i)
-                    col(j)
-
+                    row[i]=1
+                    col[j]=1
+        
         for i in range(n):
-            for j in range(m):
-                if matrix[i][j] is None:
+            if row[i]==1:
+                for j in range(m):
                     matrix[i][j]=0
-        return matrix
+                    
+        for i in range(m):
+            if col[i]==1:
+                for j in range(n):
+                    matrix[j][i]=0
+
+
+        
+        
 
         
