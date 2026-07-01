@@ -1,15 +1,20 @@
 class Solution(object):
     def climbStairs(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
         dp=[-1]*(n+1)
         def rec(ind):
-            if ind==0:
-                return 1
-            if ind==1:
+            if ind>n:
+                return 0
+            if ind==n:
                 return 1
             if dp[ind]!=-1:
                 return dp[ind]
-            left=rec(ind-1)
-            right=rec(ind-2)
-            dp[ind] = right+left 
+            one=rec(ind+1)
+            two=rec(ind+2)
+            dp[ind]=one + two
             return dp[ind]
-        return rec(n)
+        return rec(0)
+        
