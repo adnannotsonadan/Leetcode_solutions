@@ -28,13 +28,13 @@ class Solution(object):
         #     return dep
         # return lvl(root,dep)
 
-        # USING RECURSION OF DFS
+        # USING RECURSION OR DFS
 
         def solve(node):
-            if node==None:
+            if not node:
                 return 0
-            leftheight=solve(node.left)
-            rightheight=solve(node.right)
-            return 1+max(leftheight,rightheight)
+            lh=solve(node.left)
+            rh=solve(node.right)
+            return 1+max(lh,rh)
         return solve(root)
         
