@@ -86,6 +86,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3838-weighted-word-mapping](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | [0509-fibonacci-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -397,6 +401,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -673,4 +678,8 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
