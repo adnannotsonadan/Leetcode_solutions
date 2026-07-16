@@ -1,57 +1,21 @@
-class Solution(object):
-    def setZeroes(self, matrix):
+class Solution:
+    def setZeroes(self, matrix: List[List[int]]) -> None:
         """
-        :type matrix: List[List[int]]
-        :rtype: None Do not return anything, modify matrix in-place instead.
+        Do not return anything, modify matrix in-place instead.
         """
-        n=len(matrix)
-        m=len(matrix[0])
-        
-        # def row(r):
-        #     for i in range(m):
-        #         if matrix[r][i]!=0:
-        #             matrix[r][i]=None
-        #     return
-        # def col(c):
-        #     for i in range(n):
-        #         if matrix[i][c]!=0:
-        #             matrix[i][c]=None
-        #     return
-
-        # for i in range(n):
-        #     for j in range(m):
-        #         if matrix[i][j]==0:
-        #             row(i)
-        #             col(j)
-
-        # for i in range(n):
-        #     for j in range(m):
-        #         if matrix[i][j] is None:
-        #             matrix[i][j]=0
-        # return matrix
-
-
-        row=[0]*n
-        col=[0]*m
-
-        for i in range(n):
-            for j in range(m):
-                if matrix[i][j]==0:
-                    row[i]=1
-                    col[j]=1
-        
-        for i in range(n):
-            if row[i]==1:
-                for j in range(m):
-                    matrix[i][j]=0
-                    
+        s=[]
+        m=len(matrix)
+        n=len(matrix[0])
         for i in range(m):
-            if col[i]==1:
-                for j in range(n):
-                    matrix[j][i]=0
-
-
-        
-        
-
-        
+            for j in range(n):
+                if matrix[i][j]==0:
+                    s.append((i,j))
+        while s:
+            x,y=s.pop()
+  
+            for i in range(n):
+                matrix[x][i]=0
+            for j in range(m):
+                matrix[j][y]=0
+                # print(j)
+        return matrix
