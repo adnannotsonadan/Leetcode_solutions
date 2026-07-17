@@ -3,24 +3,22 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        r=[]
-        w=[]
-        b=[]
+        r=0
+        w=0
+        b=0
 
         for num in nums:
             if num==0:
-                r.append(num)
+                r+=1
             elif num==1:
-                w.append(num)
+                w+=1
             else:
-                b.append(num)
+                b+=1
         
-        for i in range(len(r)):
+        for i in range(r):
             nums[i]=0
-        for i in range(len(r),len(w)+len(r)):
+        for i in range(r,w+r):
             nums[i]=1
-        for i in range(len(w)+len(r),len(b)+len(w)+len(r)):
+        for i in range(w+r,b+w+r):
             nums[i]=2
-        print(r)
-        print(w)
-        print(b)
+        
