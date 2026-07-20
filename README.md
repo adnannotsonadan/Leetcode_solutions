@@ -19,6 +19,7 @@
 | [0045-jump-game-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0066-plus-one) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0015-3sum](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0148-sort-list) |
