@@ -1,26 +1,14 @@
-class Solution(object):
-    def maxSubArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        # n=len(nums)
-        # maxi=float('-inf')
-        # for i in range(0,n):
-        #     tot=0
-        #     for j in range(i,n):
-        #         tot+=nums[j]
-        #         maxi=max(maxi,tot)
-        # return maxi
-
-        n=len(nums)
-        maxi=float('-inf')
-        tot=0
-
-        for i in range(n):
-            tot+=nums[i]
-            maxi=max(maxi,tot)
-            if tot<0:
-                tot=0
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        if len(nums)==1:
+            return 1
+        ans=nums[0]
+        maxi=0
+        for i in range(1,len(nums)):
+            ans+=nums[i]
+            maxi=max(maxi,ans)
+            if ans<0:
+                ans=0
+            
+            
         return maxi
-        
