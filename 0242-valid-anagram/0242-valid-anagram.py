@@ -1,30 +1,18 @@
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        # t="".join(sorted(t))
-        # s="".join(sorted(s))
-        # if s==t:
-        #     return True
-        # else:
-        #     return False
-                
-        ms={}
-        mt={}
-        if len(s)!=len(t):
-            return False
-        for i in range(len(s)):
-            if s[i] not in ms:
-                ms[s[i]]=1
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        m={}
+        for chr in s:
+            if chr not in m:
+                m[chr]=1
             else:
-                ms[s[i]]+=1
-            if t[i] not in mt:
-                mt[t[i]]=1
+                m[chr]+=1
+        n={}
+        for chr in t:
+            if chr not in n:
+                n[chr]=1
             else:
-                mt[t[i]]+=1
-        if ms==mt:
+                n[chr]+=1
+        if m==n:
             return True
-        return False
+        else:
+            return False
