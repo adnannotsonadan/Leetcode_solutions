@@ -1,45 +1,30 @@
-class Solution(object):
-    def searchRange(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-
-        if not nums:
-            return [-1,-1]
+class Solution:
+    def searchRange(self, nums: List[int], target: int) -> List[int]:
         n=len(nums)
-        low=0
-        high=n-1
-
-        ans=n
-        res=[]
-        while low<=high:
-            mid=low+(high-low)//2
-
+        l=0
+        h=n-1
+        ans=[]
+        tot=n
+        while l<=h:
+            mid=(l+h)//2
+            print(mid)
             if nums[mid]>=target:
-                ans=mid
-                high=mid-1
-            elif nums[mid]<target:
-                low=mid+1
-        if ans==n or nums[ans]!=target:
-            return [-1,-1]
-        
-        first=ans
-        
-        ans1=n
-        low1=0
-        high1=n-1
-
-        while low1<=high1:
-            mid1=low1+(high1-low1)//2
-            if nums[mid1]>target:
-                ans1=mid1
-                high1=mid1-1
+                tot=mid
+                h=mid-1
             else:
-                low1=mid1+1
-        if ans1==n:
-            last=n-1
-        else:
-            last=ans1-1
-        return [first,last]
+                l=mid+1
+        
+        if tot==n or nums[tot]!=target:
+            return [-1,-1]
+
+        l=0
+        h=n-1
+        tot2=n
+        while l<=h:
+            mid=(l+h)//2
+            if nums[mid]>target:
+                tot2=mid
+                h=mid-1
+            else:
+                l=mid+1
+        return [tot,tot2-1]
