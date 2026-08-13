@@ -1,18 +1,15 @@
-class Solution(object):
-    def isPalindrome(self, x):
-        """
-        :type x: int
-        :rtype: bool
-        """
-        x=str(x)
-        
-        i=0
-        j=len(x)-1
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        if x<0:
+            return False
+        n=x
+        rev=0
 
-        while i<j:
-            if x[i]!=x[j]:
-                return False
-            else:
-                i+=1
-                j-=1
-        return True
+        while n:
+            last=n%10
+            rev=(rev*10)+last
+
+            n//=10
+        if rev==x:
+            return True
+        return False
