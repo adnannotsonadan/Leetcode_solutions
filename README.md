@@ -707,4 +707,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
