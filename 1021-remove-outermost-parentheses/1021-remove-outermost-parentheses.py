@@ -1,45 +1,17 @@
-class Solution(object):
-    def removeOuterParentheses(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        # arr=list(s)
-        # temp=[]
-        # obs=0
-        # for i in range(len(arr)):
-        #     if arr[i]=='(':
-        #         obs+=1
-        #         if obs>1:
-        #             temp.append(arr[i])
-        #         else:
-        #             continue
-        #     else:
-        #         obs-=1
-        #         if obs!=0:
-        #             temp.append(arr[i])
-        # x="".join(temp)
-        # return x
-        st=""
-        op=0
-        cl=0
+class Solution:
+    def removeOuterParentheses(self, s: str) -> str:
+        temp=""
+        c=0
 
-        for i in range(len(s)):
-            if s[i]=='(':
-                op+=1
-                if op>1:
-                    st+=s[i]
-            elif s[i]==')':
-                cl+=1
-                if cl>op:
-                    cl=0
-                    continue
-                elif cl==op:
-                    op=0
-                    cl=0
-                    continue
-                else:
-                    
-                    st+=')'
-        return st
-            
+        for ch in s:
+            if ch=='(':
+                c+=1
+                if c>1:
+                    temp+=ch
+            else:
+                if ch==')':
+                    c-=1
+                    if c!=0:
+                        temp+=ch
+
+        return temp
