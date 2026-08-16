@@ -4,9 +4,10 @@ class Solution:
         j=0
         if not s:
             return 0
+        n=len(s)
         m=set()
         maxi=float('-inf')
-        while j<len(s):
+        while j<n:
             if s[j] not in m:
                 m.add(s[j])
                 maxi=max(maxi,j-i+1)
