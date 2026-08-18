@@ -1,19 +1,8 @@
-class Solution(object):
-    def missingNumber(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        # m=max(nums)
-        # nums.sort()
-        # for i in range(m+1):
-        #     if i!=nums[i]:
-        #         return i
-        # return m+1
-
-        n=len(nums)
-        n1=(n*(n+1))//2
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
         s=sum(nums)
-
-        d=n1-s
-        return d
+        l=len(nums)
+        x=0
+        for i in range(1,l+1):
+            x+=i
+        return abs(x-s)
