@@ -1,20 +1,12 @@
-class Solution(object):
-    def firstUniqChar(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        m = {}
-
-        for el in s:
-            if el not in m:
-                m[el] = 1
+class Solution:
+    def firstUniqChar(self, s: str) -> int:
+        m={}
+        for ch in s:
+            if ch not in m:
+                m[ch]=1
             else:
-                m[el] += 1
-
-        for i in range(len(s)):
-            if m[s[i]] == 1:
-                return i
-
+                m[ch]+=1
+        for key,val in m.items():
+            if val==1:
+                return s.index(key)
         return -1
-        
