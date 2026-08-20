@@ -294,6 +294,7 @@
 | [0070-climbing-stairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -414,6 +415,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -702,6 +704,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/0258-add-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bracket Sequences
 |  |
