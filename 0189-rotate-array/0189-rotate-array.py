@@ -6,9 +6,7 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums in-place instead.
         """
         n=len(nums)
-        d=k%n
-
-        res=[]
-
-        nums[:]=nums[n-d:]+nums[:n-d]
+        l=k%n
+        x=[]
+        nums[:]=nums[n-l:]+nums[:n-l]
         return nums
