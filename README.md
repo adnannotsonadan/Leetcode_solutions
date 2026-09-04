@@ -93,6 +93,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3838-weighted-word-mapping](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -600,6 +601,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/adnannotsonadan/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Graph Theory
 |  |
 | ------- |
